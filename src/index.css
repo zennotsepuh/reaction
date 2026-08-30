@@ -1,0 +1,10 @@
+/* File: src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0a0a0f;
+  margin: 0;
+  padding: 0;
+}
